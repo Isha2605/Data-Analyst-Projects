@@ -18,7 +18,7 @@ This repository contains an Excel dashboard for visualizing bike sales data. The
 
 ## Setup Instructions
 
-1. **Download the Excel File**: [Download Here](./your_excel_file.xlsx)
+1. **Download the Excel File**: [Download Here](BikeStores.xlsx)
 2. **Connect to MySQL Server**: Ensure your MySQL server is running and accessible.
 3. **Refresh Data**:
    - Open the Excel file.
