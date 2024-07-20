@@ -27,4 +27,4 @@ This repository contains an Excel dashboard for visualizing bike sales data. The
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to me at (ishanarkhede26@gmail.com) or connect with me on (https://www.linkedin.com/in/isha-narkhede/).
+For any questions or feedback, feel free to reach out to me at (ishanarkhede26@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/isha-narkhede/).
