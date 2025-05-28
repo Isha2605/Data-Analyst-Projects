@@ -25,6 +25,12 @@ This repository contains an Excel dashboard for visualizing bike sales data. The
    - Go to the "Data" tab.
    - Click "Refresh All" to update the dashboard with the latest data from the MySQL server.
 
+## Dashboard Screenshots
+
+![Dashboard Screenshot 1](Dashboard Screenshots/SS1.png)  
+![Dashboard Screenshot 1](Dashboard Screenshots/SS2.png)
+![Dashboard Screenshot 1](Dashboard Screenshots/SS3.png)
+
 ## Contact
 
 For any questions or feedback, feel free to reach out to me at (ishanarkhede26@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/isha-narkhede/).
