@@ -27,9 +27,9 @@ This repository contains an Excel dashboard for visualizing bike sales data. The
 
 ## Dashboard Screenshots
 
-![Dashboard Screenshot 1](Dashboard Screenshots/SS1.png)  
-![Dashboard Screenshot 1](Dashboard Screenshots/SS2.png)
-![Dashboard Screenshot 1](Dashboard Screenshots/SS3.png)
+![Dashboard Screenshot 1](Dashboard%20Screenshots/SS1.png)  
+![Dashboard Screenshot 1](Dashboard%20Screenshots/SS2.png)
+![Dashboard Screenshot 1](Dashboard%20Screenshots/SS3.png)
 
 ## Contact
 
